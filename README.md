@@ -1,7 +1,7 @@
 # HackerRank Algorithms Solutions
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-2/426-1f425f.svg)
-![python](https://img.shields.io/badge/Python-2/426-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-3/426-1f425f.svg)
+![python](https://img.shields.io/badge/Python-3/426-1abc9c.svg)
 ![c](https://img.shields.io/badge/C-0/426-1abc9c.svg)
 [![cp](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/codingarraia)
 
@@ -34,7 +34,7 @@ and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 |---------|:----------:|:-------------:|
 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | Easy |[![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/solve-me-first.py)|
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/simple-array-sum.py)|
-| [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | Easy | |
+| [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/compare-the-triplets.py)|
 | [A very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | Easy | |
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | Easy | |
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | Easy | |
