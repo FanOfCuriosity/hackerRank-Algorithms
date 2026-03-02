@@ -32,8 +32,8 @@ and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 ### Warmup ![problems-solved](https://img.shields.io/badge/Solved-2/10-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
-| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | Easy |  | Easy | |
-| [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | Easy | |
+| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | Easy |[![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/solve-me-first.py)|
+| [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/simple-array-sum.py)|
 | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | Easy | |
 | [A very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | Easy | |
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | Easy | |
