@@ -1,7 +1,7 @@
 # HackerRank Algorithms Solutions
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-7/426-1f425f.svg)
-![python](https://img.shields.io/badge/Python-7/426-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-8/426-1f425f.svg)
+![python](https://img.shields.io/badge/Python-8/426-1abc9c.svg)
 ![c](https://img.shields.io/badge/C-0/426-1abc9c.svg)
 [![cp](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/codingarraia)
 
@@ -39,7 +39,7 @@ and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/diagonal-difference.py)|
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | Easy |[![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/plus-minus.py) |
 | [Staircase](https://www.hackerrank.com/challenges/staircase) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/staircase.py) |
-| [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | Easy | |
+| [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/mini-max-sum.py)|
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | Easy |  |
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | Easy |  |
 
