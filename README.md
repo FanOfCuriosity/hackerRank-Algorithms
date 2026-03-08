@@ -1,7 +1,7 @@
 # HackerRank Algorithms Solutions
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-8/426-1f425f.svg)
-![python](https://img.shields.io/badge/Python-8/426-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-9/426-1f425f.svg)
+![python](https://img.shields.io/badge/Python-9/426-1abc9c.svg)
 ![c](https://img.shields.io/badge/C-0/426-1abc9c.svg)
 [![cp](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/codingarraia)
 
@@ -29,7 +29,7 @@ and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 [NP Complete](#np-complete-) |
 [Debugging](#debugging-)
 
-### Warmup ![problems-solved](https://img.shields.io/badge/Solved-7/10-1abc9c.svg)
+### Warmup ![problems-solved](https://img.shields.io/badge/Solved-9/10-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | Easy |[![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/solve-me-first.py)|
@@ -40,7 +40,7 @@ and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | Easy |[![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/plus-minus.py) |
 | [Staircase](https://www.hackerrank.com/challenges/staircase) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/staircase.py) |
 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/mini-max-sum.py)|
-| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | Easy |  |
+| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/birthday-cake-candles.py) |
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | Easy |  |
 
 
