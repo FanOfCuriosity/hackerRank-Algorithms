@@ -1,7 +1,7 @@
 # HackerRank Algorithms Solutions
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-9/426-1f425f.svg)
-![python](https://img.shields.io/badge/Python-9/426-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-10/426-1f425f.svg)
+![python](https://img.shields.io/badge/Python-10/426-1abc9c.svg)
 ![c](https://img.shields.io/badge/C-0/426-1abc9c.svg)
 [![cp](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/codingarraia)
 
@@ -29,7 +29,7 @@ and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 [NP Complete](#np-complete-) |
 [Debugging](#debugging-)
 
-### Warmup ![problems-solved](https://img.shields.io/badge/Solved-9/10-1abc9c.svg)
+### Warmup ![problems-solved](https://img.shields.io/badge/Solved-10/10-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | Easy |[![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/solve-me-first.py)|
@@ -41,7 +41,7 @@ and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 | [Staircase](https://www.hackerrank.com/challenges/staircase) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/staircase.py) |
 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/mini-max-sum.py)|
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/birthday-cake-candles.py) |
-| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | Easy |  |
+| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/time-conversion.py) |
 
 
 ### Implementation ![problems-solved](https://img.shields.io/badge/Solved-0/66-1abc9c.svg)
