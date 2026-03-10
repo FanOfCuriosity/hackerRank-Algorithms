@@ -1,7 +1,7 @@
 # HackerRank Algorithms Solutions
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-10/426-1f425f.svg)
-![python](https://img.shields.io/badge/Python-10/426-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-11/426-1f425f.svg)
+![python](https://img.shields.io/badge/Python-11/426-1abc9c.svg)
 ![c](https://img.shields.io/badge/C-0/426-1abc9c.svg)
 [![cp](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/codingarraia)
 
@@ -44,10 +44,10 @@ and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/time-conversion.py) |
 
 
-### Implementation ![problems-solved](https://img.shields.io/badge/Solved-0/66-1abc9c.svg)
+### Implementation ![problems-solved](https://img.shields.io/badge/Solved-1/66-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
-| [Grading Students](https://www.hackerrank.com/challenges/grading) | Easy | |
+| [Grading Students](https://www.hackerrank.com/challenges/grading) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](implementation/grading.py)|
 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | Easy |  |
 | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) | Easy |  |
 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | Easy |  |
