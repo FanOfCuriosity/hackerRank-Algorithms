@@ -1,7 +1,7 @@
 # HackerRank Algorithms Solutions
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-13/426-1f425f.svg)
-![python](https://img.shields.io/badge/Python-13/426-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-14/426-1f425f.svg)
+![python](https://img.shields.io/badge/Python-14/426-1abc9c.svg)
 ![c](https://img.shields.io/badge/C-0/426-1abc9c.svg)
 [![cp](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/codingarraia)
 
@@ -44,13 +44,13 @@ and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/time-conversion.py) |
 
 
-### Implementation ![problems-solved](https://img.shields.io/badge/Solved-3/66-1abc9c.svg)
+### Implementation ![problems-solved](https://img.shields.io/badge/Solved-4/66-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
 | [Grading Students](https://www.hackerrank.com/challenges/grading) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](implementation/grading.py)|
 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](implementation/apple-and-orange.py) |
 | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](implementation/kangaroo.py) |
-| [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | Easy |  |
+| [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](implementation/between-two-sets.py) |
 | [Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | Easy |  |
 | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar) | Easy |  |
 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs) | Easy |  |
