@@ -1,7 +1,7 @@
 # HackerRank Algorithms Solutions
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-20/426-1f425f.svg)
-![python](https://img.shields.io/badge/Python-20/426-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-21/426-1f425f.svg)
+![python](https://img.shields.io/badge/Python-21/426-1abc9c.svg)
 ![c](https://img.shields.io/badge/C-0/426-1abc9c.svg)
 [![cp](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/codingarraia)
 
@@ -44,7 +44,7 @@ and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/time-conversion.py) |
 
 
-### Implementation ![problems-solved](https://img.shields.io/badge/Solved-10/66-1abc9c.svg)
+### Implementation ![problems-solved](https://img.shields.io/badge/Solved-11/66-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
 | [Grading Students](https://www.hackerrank.com/challenges/grading) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](implementation/grading.py)|
@@ -57,7 +57,7 @@ and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds) | Easy |  [![Python](https://img.icons8.com/color/35/000000/python.png)](implementation/migratory-birds.py) |
 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](implementation/day-of-programmer.py) |
 | [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](implementation/bon-appetit.py)|
-| [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) | Easy |  |
+| [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](implementation/sock-merchant.py) |
 | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book) | Easy |  |
 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys) | Easy |  |
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop) | Easy |  |
