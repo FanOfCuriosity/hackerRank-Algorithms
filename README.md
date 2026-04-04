@@ -1,7 +1,7 @@
 # HackerRank Algorithms Solutions
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-24/426-1f425f.svg)
-![python](https://img.shields.io/badge/Python-24/426-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-25/426-1f425f.svg)
+![python](https://img.shields.io/badge/Python-25/426-1abc9c.svg)
 ![c](https://img.shields.io/badge/C-0/426-1abc9c.svg)
 [![cp](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/codingarraia)
 
@@ -44,7 +44,7 @@ and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](warmup/time-conversion.py) |
 
 
-### Implementation ![problems-solved](https://img.shields.io/badge/Solved-14/66-1abc9c.svg)
+### Implementation ![problems-solved](https://img.shields.io/badge/Solved-15/66-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
 | [Grading Students](https://www.hackerrank.com/challenges/grading) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](implementation/grading.py)|
@@ -61,7 +61,7 @@ and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](implementation/drawing-book.py) |
 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](implementation/counting-valleys.py) |
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](implementation/electronics-shop.py) |
-| [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | Easy |  |
+| [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | Easy | [![Python](https://img.icons8.com/color/35/000000/python.png)](implementation/cats-and-a-mouse.py) |
 | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming) | Medium | |
 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | Easy |  |
 | [Climbing The Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | Medium | |
